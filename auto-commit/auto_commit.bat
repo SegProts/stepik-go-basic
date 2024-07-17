@@ -1,7 +1,7 @@
 @echo off
 
 REM Перейти в папку с репозиторием
-cd /d "C:\Users\procenko\go\src\stepik-go-basic"
+cd /d "C:\Go\GoProjects\src\stepik-go-basic"
 
 REM Проверка статуса репозитория
 git status

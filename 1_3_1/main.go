@@ -1,14 +1,22 @@
 package main
 
-import "fmt"
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
 
 func main() {
-
 	fmt.Println("Привет! Как тебя зовут?")
 
 	var name string
-	// пользователь вводит свое имя. Сохраняем в переменную "name"
 	fmt.Scan(&name)
-	// приветствуем пользователя. Вместо переменной подставиться его значение, то есть то что ввел пользователь.
 	fmt.Println("Привет, " + name)
+
+	fmt.Println("Нажмите Enter для завершения программы...")
+	bufio.NewReader(os.Stdin).ReadBytes('\n')
+
+	// Ожидание нажатия клавиши Enter перед завершением
+	fmt.Println("Нажмите Enter для выхода...")
+	fmt.Scanln()
 }

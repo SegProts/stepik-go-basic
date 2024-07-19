@@ -1,6 +1,11 @@
 Go
 Курс Golang | Все Основы за 4 Часа Для Начинающих
 https://youtu.be/h0zxh2TPN_I
+
+https://youtu.be/jDWyN2-Z6rE
+
+https://youtu.be/Ujra9cIC_ZY
+
 https://youtu.be/2war2oNU8Rw
 
 https://git-scm.com/book/ru/v2/

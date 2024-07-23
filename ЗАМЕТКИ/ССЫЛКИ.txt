@@ -13,3 +13,8 @@ https://ru.hexlet.io/courses/intro_to_git
 
 Unreal Engine
 https://dev.epicgames.com/documentation/
+
+Mac
+https://dortania.github.io/OpenCore-Legacy-Patcher/START.html#how-do-i-get-started
+https://github.com/dortania/OpenCore-Legacy-Patcher/issues/1008
+https://medium.com/technology-hits/i-updated-my-2015-15-macbook-pro-to-macos-sonoma-one-month-review-60d4d26a578e	

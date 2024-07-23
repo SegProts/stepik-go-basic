@@ -29,7 +29,8 @@ set "datestamp=%year%-%month%-%day%"
 set "timestamp=%hour%:%minute%"
 
 REM Коммит изменений с использованием текущей даты и времени
-git commit -m "Automatic commit on %datestamp% at %timestamp%"
+REM git commit -m "Automatic commit on %datestamp% at %timestamp%"
+git commit -m "%datestamp% at %timestamp%"
 
 REM Пуш изменений на сервер
 git push origin main

@@ -1,3 +1,6 @@
+Best practics
+https://appmaster.io/ru/blog/luchshie-praktiki-kodirovaniia
+
 Go
 Курс Golang | Все Основы за 4 Часа Для Начинающих
 https://youtu.be/h0zxh2TPN_I
